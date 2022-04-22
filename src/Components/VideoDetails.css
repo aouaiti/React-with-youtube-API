@@ -1,0 +1,18 @@
+.iframe-container {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  background: #44444450;
+  border-radius: 5px;
+}
+.text {
+  margin-top: 30px;
+  padding: 20px;
+}
+.text > p {
+  font-size: larger;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}

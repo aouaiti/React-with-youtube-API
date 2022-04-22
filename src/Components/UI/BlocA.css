@@ -1,0 +1,5 @@
+.bloc-A {
+  background: transparent !important;
+  backdrop-filter: blur(7px) !important;
+  height: 93vh !important;
+}

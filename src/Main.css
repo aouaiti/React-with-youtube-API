@@ -1,0 +1,19 @@
+body,
+html {
+  overflow: hidden !important;
+}
+body {
+  background-image: url("/Images/youTube.jpg");
+}
+.app {
+  background-color: red;
+}
+.column {
+  display: flex;
+  gap: 20px;
+}
+@media (max-width: 991px) {
+  .column {
+    flex-direction: column;
+  }
+}
